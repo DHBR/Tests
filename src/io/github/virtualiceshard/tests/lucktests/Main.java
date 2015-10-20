@@ -1,5 +1,12 @@
 package io.github.virtualiceshard.tests.lucktests;
 
+//version 1.0
+//developed by VirtualIceShard
+
+
+//@author VirtualIceShard
+//@version 1.0
+
 public class Main {
 
 	public static void main(String args[]) {
