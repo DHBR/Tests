@@ -2,13 +2,13 @@ package io.github.virtualiceshard.tests.lucktests;
 
 
 //version 1.0
-//developed by virtualiceshard
+//developed by VirtualIceShard
 
 
-//@author virtualiceshard
+//@author VirtualIceShard
 //@version 1.0
 
-public class LuckTester<catches> {
+public class LuckTester {
 
 	private boolean[] testSucList;
 	private String[] testSucMessages;
